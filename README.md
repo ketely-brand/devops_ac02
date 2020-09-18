@@ -38,3 +38,5 @@ Exemplo de Push
 23- No git status executado ele sugere executar o git push para atualizar o repositório remoto   
 24- Execução do git push (print_24)  
 25- Consulta do README no github, consta a modificação feita (print_25)  
+
+
